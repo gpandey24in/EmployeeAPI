@@ -12,7 +12,11 @@ namespace EmployeeAPI
 
         public string Summary { get; set; }
         public string Summary1 { get; set; }
+        public string Summary2 { get; set; }
+        public string Summary3 { get; set; }
 
-          public string Summary3 { get; set; }
+          
+       
+
     }
 }
